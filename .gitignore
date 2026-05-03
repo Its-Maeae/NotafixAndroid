@@ -1,0 +1,12 @@
+/node_modules
+/package-lock.json
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+android/app/src/main/assets/public/
+.idea/
+*.iml
+*.jks
+*.keystore
+release/

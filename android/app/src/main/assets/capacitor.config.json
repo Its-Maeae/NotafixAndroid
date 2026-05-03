@@ -1,0 +1,17 @@
+{
+	"appId": "com.notafix.app",
+	"appName": "Notafix",
+	"webDir": "www",
+	"server": {
+		"url": "https://notafix.mooo.com",
+		"cleartext": false,
+		"allowNavigation": [
+			"notafix.mooo.com"
+		]
+	},
+	"android": {
+		"allowMixedContent": false,
+		"captureInput": true,
+		"webContentsDebuggingEnabled": false
+	}
+}
